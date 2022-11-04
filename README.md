@@ -11,5 +11,4 @@ https://www.arduino.cc/reference/en/libraries/wifi/
 Other Resources:
 https://randomnerdtutorials.com/esp32-useful-wi-fi-functions-arduino/
 
-Current Status: Using ESP32 WROOM, can search for nearby wifi networks
-Code uploaded
+Current Status: Using ESP32 WROOM, can search for nearby wifi networks (Code uploaded)
