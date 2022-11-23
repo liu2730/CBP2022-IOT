@@ -32,3 +32,10 @@ Also able to read sensor data
 To DO: 
 
 Take Sensor data and process into chart to upload onto webpage
+
+
+More useful sites:
+
+https://stackoverflow.com/questions/45753895/creating-and-updating-graph-in-html-and-javascript
+
+
