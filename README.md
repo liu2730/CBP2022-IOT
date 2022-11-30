@@ -38,4 +38,6 @@ More useful sites:
 
 https://stackoverflow.com/questions/45753895/creating-and-updating-graph-in-html-and-javascript
 
+FOR IMPLEMENTATION: Download the finalimplement.ino and webUpdate.h files and make sure they are in the same folders before compiling and flashing the MCU.
+Works in conjunction with the terminal to see connection status with internet. In code, be sure to change the WIFI name and password so that you are able to connect to it.
 
