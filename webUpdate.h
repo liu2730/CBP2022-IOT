@@ -5,7 +5,7 @@ const char MAIN_page[] PROGMEM = R"=====(
 </style>
 <body>
 <div>
-  <h4> Turbidity Rating and TDS Reading (PPM): <span id="ADCValues> </h4><br>
+  <h4> Turbidity Rating and TDS Reading (PPM): <span id="ADCValues"> </h4><br>
 </div>
 <script>
 
